@@ -1,0 +1,26 @@
+{
+  "patch_id": "b8052c4f599c19a3839549b887c706990a66d7544a9036df2edcf48701b3ea63",
+  "timestamp": "2025-04-17T18:09:08.504975",
+  "odu": "\u00c8j\u00ec Custom 8",
+  "figure": "Test Figure 8",
+  "lineage": "Diaspora",
+  "type": "Figure / Educator / Spirit",
+  "ori_essence": "Essence of revolution 8",
+  "odu_logic": "Logic for path 8",
+  "beads": [
+    "Joy",
+    "Soil"
+  ],
+  "colors": [
+    "Color1",
+    "Color2"
+  ],
+  "icon": [
+    "IconA",
+    "IconB"
+  ],
+  "keywords": [
+    "Key1",
+    "Key2"
+  ]
+}

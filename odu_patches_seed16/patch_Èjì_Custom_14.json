@@ -1,0 +1,26 @@
+{
+  "patch_id": "c10e9d8cbc3e35ce7f43055f88a216e81ec180e01409805de9d0ea487c71b394",
+  "timestamp": "2025-04-17T18:09:08.507247",
+  "odu": "\u00c8j\u00ec Custom 14",
+  "figure": "Test Figure 14",
+  "lineage": "Diaspora",
+  "type": "Figure / Educator / Spirit",
+  "ori_essence": "Essence of revolution 14",
+  "odu_logic": "Logic for path 14",
+  "beads": [
+    "Joy",
+    "Soil"
+  ],
+  "colors": [
+    "Color1",
+    "Color2"
+  ],
+  "icon": [
+    "IconA",
+    "IconB"
+  ],
+  "keywords": [
+    "Key1",
+    "Key2"
+  ]
+}

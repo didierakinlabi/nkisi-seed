@@ -1,0 +1,26 @@
+{
+  "patch_id": "a23e92d3bfe45e57279a01a984b24a8bb11f380cee7dacc94187f5b878403353",
+  "timestamp": "2025-04-17T18:09:08.505288",
+  "odu": "\u00c8j\u00ec Custom 9",
+  "figure": "Test Figure 9",
+  "lineage": "Diaspora",
+  "type": "Figure / Educator / Spirit",
+  "ori_essence": "Essence of revolution 9",
+  "odu_logic": "Logic for path 9",
+  "beads": [
+    "Joy",
+    "Soil"
+  ],
+  "colors": [
+    "Color1",
+    "Color2"
+  ],
+  "icon": [
+    "IconA",
+    "IconB"
+  ],
+  "keywords": [
+    "Key1",
+    "Key2"
+  ]
+}
