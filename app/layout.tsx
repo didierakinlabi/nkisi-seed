@@ -9,7 +9,7 @@ export const metadata = {
   description: "Nkisi Network – Archive, Healing, Resistance",
 };
 
-export default function RootStyle({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body className={`${inter.variable} font-sans bg-neutral-100 text-neutral-900 antialiased`}>
