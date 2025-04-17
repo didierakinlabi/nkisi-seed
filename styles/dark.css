@@ -1,0 +1,11 @@
+
+/* Add this to your globals or use it for manual toggling */
+body.dark {
+  background-color: #0a0a0a;
+  color: #f4f4f4;
+}
+
+.dark .card {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
