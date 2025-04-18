@@ -1,0 +1,3074 @@
+[
+  {
+    "odublock_id": "ODUBLOCK_000000",
+    "base3_encoding": "000000",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Ogbe and Ogbe",
+    "veve_stub": "Veve aligned with Ogbe-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000001",
+    "base3_encoding": "000001",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Ogbe and Oyeku",
+    "veve_stub": "Veve aligned with Ogbe-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000002",
+    "base3_encoding": "000002",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Ogbe and Iwori",
+    "veve_stub": "Veve aligned with Ogbe-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000010",
+    "base3_encoding": "000010",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Ogbe and Odi",
+    "veve_stub": "Veve aligned with Ogbe-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000011",
+    "base3_encoding": "000011",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Ogbe and Irosun",
+    "veve_stub": "Veve aligned with Ogbe-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000012",
+    "base3_encoding": "000012",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Ogbe and Owonrin",
+    "veve_stub": "Veve aligned with Ogbe-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000020",
+    "base3_encoding": "000020",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Ogbe and Obara",
+    "veve_stub": "Veve aligned with Ogbe-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000021",
+    "base3_encoding": "000021",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Ogbe and Okanran",
+    "veve_stub": "Veve aligned with Ogbe-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000022",
+    "base3_encoding": "000022",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Ogbe and Ogunda",
+    "veve_stub": "Veve aligned with Ogbe-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000100",
+    "base3_encoding": "000100",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Ogbe and Osa",
+    "veve_stub": "Veve aligned with Ogbe-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000101",
+    "base3_encoding": "000101",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Ogbe and Ika",
+    "veve_stub": "Veve aligned with Ogbe-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000102",
+    "base3_encoding": "000102",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Ogbe and Oturupon",
+    "veve_stub": "Veve aligned with Ogbe-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000110",
+    "base3_encoding": "000110",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Ogbe and Otura",
+    "veve_stub": "Veve aligned with Ogbe-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000111",
+    "base3_encoding": "000111",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Ogbe and Irete",
+    "veve_stub": "Veve aligned with Ogbe-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000112",
+    "base3_encoding": "000112",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Ogbe and Ose",
+    "veve_stub": "Veve aligned with Ogbe-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000120",
+    "base3_encoding": "000120",
+    "root_odu": "Ogbe",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Ogbe and Ofun",
+    "veve_stub": "Veve aligned with Ogbe-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Ogbe-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000121",
+    "base3_encoding": "000121",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Oyeku and Ogbe",
+    "veve_stub": "Veve aligned with Oyeku-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000122",
+    "base3_encoding": "000122",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Oyeku and Oyeku",
+    "veve_stub": "Veve aligned with Oyeku-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000200",
+    "base3_encoding": "000200",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Oyeku and Iwori",
+    "veve_stub": "Veve aligned with Oyeku-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000201",
+    "base3_encoding": "000201",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Oyeku and Odi",
+    "veve_stub": "Veve aligned with Oyeku-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000202",
+    "base3_encoding": "000202",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Oyeku and Irosun",
+    "veve_stub": "Veve aligned with Oyeku-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000210",
+    "base3_encoding": "000210",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Oyeku and Owonrin",
+    "veve_stub": "Veve aligned with Oyeku-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000211",
+    "base3_encoding": "000211",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Oyeku and Obara",
+    "veve_stub": "Veve aligned with Oyeku-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000212",
+    "base3_encoding": "000212",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Oyeku and Okanran",
+    "veve_stub": "Veve aligned with Oyeku-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000220",
+    "base3_encoding": "000220",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Oyeku and Ogunda",
+    "veve_stub": "Veve aligned with Oyeku-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000221",
+    "base3_encoding": "000221",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Oyeku and Osa",
+    "veve_stub": "Veve aligned with Oyeku-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_000222",
+    "base3_encoding": "000222",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Oyeku and Ika",
+    "veve_stub": "Veve aligned with Oyeku-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001000",
+    "base3_encoding": "001000",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Oyeku and Oturupon",
+    "veve_stub": "Veve aligned with Oyeku-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001001",
+    "base3_encoding": "001001",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Oyeku and Otura",
+    "veve_stub": "Veve aligned with Oyeku-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001002",
+    "base3_encoding": "001002",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Oyeku and Irete",
+    "veve_stub": "Veve aligned with Oyeku-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001010",
+    "base3_encoding": "001010",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Oyeku and Ose",
+    "veve_stub": "Veve aligned with Oyeku-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001011",
+    "base3_encoding": "001011",
+    "root_odu": "Oyeku",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Oyeku and Ofun",
+    "veve_stub": "Veve aligned with Oyeku-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Oyeku-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001012",
+    "base3_encoding": "001012",
+    "root_odu": "Iwori",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Iwori and Ogbe",
+    "veve_stub": "Veve aligned with Iwori-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001020",
+    "base3_encoding": "001020",
+    "root_odu": "Iwori",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Iwori and Oyeku",
+    "veve_stub": "Veve aligned with Iwori-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001021",
+    "base3_encoding": "001021",
+    "root_odu": "Iwori",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Iwori and Iwori",
+    "veve_stub": "Veve aligned with Iwori-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001022",
+    "base3_encoding": "001022",
+    "root_odu": "Iwori",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Iwori and Odi",
+    "veve_stub": "Veve aligned with Iwori-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001100",
+    "base3_encoding": "001100",
+    "root_odu": "Iwori",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Iwori and Irosun",
+    "veve_stub": "Veve aligned with Iwori-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001101",
+    "base3_encoding": "001101",
+    "root_odu": "Iwori",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Iwori and Owonrin",
+    "veve_stub": "Veve aligned with Iwori-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001102",
+    "base3_encoding": "001102",
+    "root_odu": "Iwori",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Iwori and Obara",
+    "veve_stub": "Veve aligned with Iwori-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001110",
+    "base3_encoding": "001110",
+    "root_odu": "Iwori",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Iwori and Okanran",
+    "veve_stub": "Veve aligned with Iwori-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001111",
+    "base3_encoding": "001111",
+    "root_odu": "Iwori",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Iwori and Ogunda",
+    "veve_stub": "Veve aligned with Iwori-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001112",
+    "base3_encoding": "001112",
+    "root_odu": "Iwori",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Iwori and Osa",
+    "veve_stub": "Veve aligned with Iwori-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001120",
+    "base3_encoding": "001120",
+    "root_odu": "Iwori",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Iwori and Ika",
+    "veve_stub": "Veve aligned with Iwori-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001121",
+    "base3_encoding": "001121",
+    "root_odu": "Iwori",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Iwori and Oturupon",
+    "veve_stub": "Veve aligned with Iwori-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001122",
+    "base3_encoding": "001122",
+    "root_odu": "Iwori",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Iwori and Otura",
+    "veve_stub": "Veve aligned with Iwori-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001200",
+    "base3_encoding": "001200",
+    "root_odu": "Iwori",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Iwori and Irete",
+    "veve_stub": "Veve aligned with Iwori-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001201",
+    "base3_encoding": "001201",
+    "root_odu": "Iwori",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Iwori and Ose",
+    "veve_stub": "Veve aligned with Iwori-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001202",
+    "base3_encoding": "001202",
+    "root_odu": "Iwori",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Iwori and Ofun",
+    "veve_stub": "Veve aligned with Iwori-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Iwori-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001210",
+    "base3_encoding": "001210",
+    "root_odu": "Odi",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Odi and Ogbe",
+    "veve_stub": "Veve aligned with Odi-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001211",
+    "base3_encoding": "001211",
+    "root_odu": "Odi",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Odi and Oyeku",
+    "veve_stub": "Veve aligned with Odi-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001212",
+    "base3_encoding": "001212",
+    "root_odu": "Odi",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Odi and Iwori",
+    "veve_stub": "Veve aligned with Odi-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001220",
+    "base3_encoding": "001220",
+    "root_odu": "Odi",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Odi and Odi",
+    "veve_stub": "Veve aligned with Odi-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001221",
+    "base3_encoding": "001221",
+    "root_odu": "Odi",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Odi and Irosun",
+    "veve_stub": "Veve aligned with Odi-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_001222",
+    "base3_encoding": "001222",
+    "root_odu": "Odi",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Odi and Owonrin",
+    "veve_stub": "Veve aligned with Odi-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002000",
+    "base3_encoding": "002000",
+    "root_odu": "Odi",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Odi and Obara",
+    "veve_stub": "Veve aligned with Odi-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002001",
+    "base3_encoding": "002001",
+    "root_odu": "Odi",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Odi and Okanran",
+    "veve_stub": "Veve aligned with Odi-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002002",
+    "base3_encoding": "002002",
+    "root_odu": "Odi",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Odi and Ogunda",
+    "veve_stub": "Veve aligned with Odi-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002010",
+    "base3_encoding": "002010",
+    "root_odu": "Odi",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Odi and Osa",
+    "veve_stub": "Veve aligned with Odi-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002011",
+    "base3_encoding": "002011",
+    "root_odu": "Odi",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Odi and Ika",
+    "veve_stub": "Veve aligned with Odi-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002012",
+    "base3_encoding": "002012",
+    "root_odu": "Odi",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Odi and Oturupon",
+    "veve_stub": "Veve aligned with Odi-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002020",
+    "base3_encoding": "002020",
+    "root_odu": "Odi",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Odi and Otura",
+    "veve_stub": "Veve aligned with Odi-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002021",
+    "base3_encoding": "002021",
+    "root_odu": "Odi",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Odi and Irete",
+    "veve_stub": "Veve aligned with Odi-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002022",
+    "base3_encoding": "002022",
+    "root_odu": "Odi",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Odi and Ose",
+    "veve_stub": "Veve aligned with Odi-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002100",
+    "base3_encoding": "002100",
+    "root_odu": "Odi",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Odi and Ofun",
+    "veve_stub": "Veve aligned with Odi-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Odi-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002101",
+    "base3_encoding": "002101",
+    "root_odu": "Irosun",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Irosun and Ogbe",
+    "veve_stub": "Veve aligned with Irosun-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002102",
+    "base3_encoding": "002102",
+    "root_odu": "Irosun",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Irosun and Oyeku",
+    "veve_stub": "Veve aligned with Irosun-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002110",
+    "base3_encoding": "002110",
+    "root_odu": "Irosun",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Irosun and Iwori",
+    "veve_stub": "Veve aligned with Irosun-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002111",
+    "base3_encoding": "002111",
+    "root_odu": "Irosun",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Irosun and Odi",
+    "veve_stub": "Veve aligned with Irosun-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002112",
+    "base3_encoding": "002112",
+    "root_odu": "Irosun",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Irosun and Irosun",
+    "veve_stub": "Veve aligned with Irosun-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002120",
+    "base3_encoding": "002120",
+    "root_odu": "Irosun",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Irosun and Owonrin",
+    "veve_stub": "Veve aligned with Irosun-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002121",
+    "base3_encoding": "002121",
+    "root_odu": "Irosun",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Irosun and Obara",
+    "veve_stub": "Veve aligned with Irosun-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002122",
+    "base3_encoding": "002122",
+    "root_odu": "Irosun",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Irosun and Okanran",
+    "veve_stub": "Veve aligned with Irosun-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002200",
+    "base3_encoding": "002200",
+    "root_odu": "Irosun",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Irosun and Ogunda",
+    "veve_stub": "Veve aligned with Irosun-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002201",
+    "base3_encoding": "002201",
+    "root_odu": "Irosun",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Irosun and Osa",
+    "veve_stub": "Veve aligned with Irosun-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002202",
+    "base3_encoding": "002202",
+    "root_odu": "Irosun",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Irosun and Ika",
+    "veve_stub": "Veve aligned with Irosun-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002210",
+    "base3_encoding": "002210",
+    "root_odu": "Irosun",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Irosun and Oturupon",
+    "veve_stub": "Veve aligned with Irosun-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002211",
+    "base3_encoding": "002211",
+    "root_odu": "Irosun",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Irosun and Otura",
+    "veve_stub": "Veve aligned with Irosun-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002212",
+    "base3_encoding": "002212",
+    "root_odu": "Irosun",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Irosun and Irete",
+    "veve_stub": "Veve aligned with Irosun-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002220",
+    "base3_encoding": "002220",
+    "root_odu": "Irosun",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Irosun and Ose",
+    "veve_stub": "Veve aligned with Irosun-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002221",
+    "base3_encoding": "002221",
+    "root_odu": "Irosun",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Irosun and Ofun",
+    "veve_stub": "Veve aligned with Irosun-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Irosun-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_002222",
+    "base3_encoding": "002222",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Owonrin and Ogbe",
+    "veve_stub": "Veve aligned with Owonrin-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010000",
+    "base3_encoding": "010000",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Owonrin and Oyeku",
+    "veve_stub": "Veve aligned with Owonrin-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010001",
+    "base3_encoding": "010001",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Owonrin and Iwori",
+    "veve_stub": "Veve aligned with Owonrin-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010002",
+    "base3_encoding": "010002",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Owonrin and Odi",
+    "veve_stub": "Veve aligned with Owonrin-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010010",
+    "base3_encoding": "010010",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Owonrin and Irosun",
+    "veve_stub": "Veve aligned with Owonrin-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010011",
+    "base3_encoding": "010011",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Owonrin and Owonrin",
+    "veve_stub": "Veve aligned with Owonrin-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010012",
+    "base3_encoding": "010012",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Owonrin and Obara",
+    "veve_stub": "Veve aligned with Owonrin-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010020",
+    "base3_encoding": "010020",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Owonrin and Okanran",
+    "veve_stub": "Veve aligned with Owonrin-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010021",
+    "base3_encoding": "010021",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Owonrin and Ogunda",
+    "veve_stub": "Veve aligned with Owonrin-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010022",
+    "base3_encoding": "010022",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Owonrin and Osa",
+    "veve_stub": "Veve aligned with Owonrin-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010100",
+    "base3_encoding": "010100",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Owonrin and Ika",
+    "veve_stub": "Veve aligned with Owonrin-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010101",
+    "base3_encoding": "010101",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Owonrin and Oturupon",
+    "veve_stub": "Veve aligned with Owonrin-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010102",
+    "base3_encoding": "010102",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Owonrin and Otura",
+    "veve_stub": "Veve aligned with Owonrin-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010110",
+    "base3_encoding": "010110",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Owonrin and Irete",
+    "veve_stub": "Veve aligned with Owonrin-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010111",
+    "base3_encoding": "010111",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Owonrin and Ose",
+    "veve_stub": "Veve aligned with Owonrin-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010112",
+    "base3_encoding": "010112",
+    "root_odu": "Owonrin",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Owonrin and Ofun",
+    "veve_stub": "Veve aligned with Owonrin-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Owonrin-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010120",
+    "base3_encoding": "010120",
+    "root_odu": "Obara",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Obara and Ogbe",
+    "veve_stub": "Veve aligned with Obara-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010121",
+    "base3_encoding": "010121",
+    "root_odu": "Obara",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Obara and Oyeku",
+    "veve_stub": "Veve aligned with Obara-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010122",
+    "base3_encoding": "010122",
+    "root_odu": "Obara",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Obara and Iwori",
+    "veve_stub": "Veve aligned with Obara-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010200",
+    "base3_encoding": "010200",
+    "root_odu": "Obara",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Obara and Odi",
+    "veve_stub": "Veve aligned with Obara-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010201",
+    "base3_encoding": "010201",
+    "root_odu": "Obara",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Obara and Irosun",
+    "veve_stub": "Veve aligned with Obara-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010202",
+    "base3_encoding": "010202",
+    "root_odu": "Obara",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Obara and Owonrin",
+    "veve_stub": "Veve aligned with Obara-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010210",
+    "base3_encoding": "010210",
+    "root_odu": "Obara",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Obara and Obara",
+    "veve_stub": "Veve aligned with Obara-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010211",
+    "base3_encoding": "010211",
+    "root_odu": "Obara",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Obara and Okanran",
+    "veve_stub": "Veve aligned with Obara-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010212",
+    "base3_encoding": "010212",
+    "root_odu": "Obara",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Obara and Ogunda",
+    "veve_stub": "Veve aligned with Obara-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010220",
+    "base3_encoding": "010220",
+    "root_odu": "Obara",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Obara and Osa",
+    "veve_stub": "Veve aligned with Obara-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010221",
+    "base3_encoding": "010221",
+    "root_odu": "Obara",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Obara and Ika",
+    "veve_stub": "Veve aligned with Obara-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_010222",
+    "base3_encoding": "010222",
+    "root_odu": "Obara",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Obara and Oturupon",
+    "veve_stub": "Veve aligned with Obara-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011000",
+    "base3_encoding": "011000",
+    "root_odu": "Obara",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Obara and Otura",
+    "veve_stub": "Veve aligned with Obara-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011001",
+    "base3_encoding": "011001",
+    "root_odu": "Obara",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Obara and Irete",
+    "veve_stub": "Veve aligned with Obara-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011002",
+    "base3_encoding": "011002",
+    "root_odu": "Obara",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Obara and Ose",
+    "veve_stub": "Veve aligned with Obara-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011010",
+    "base3_encoding": "011010",
+    "root_odu": "Obara",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Obara and Ofun",
+    "veve_stub": "Veve aligned with Obara-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Obara-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011011",
+    "base3_encoding": "011011",
+    "root_odu": "Okanran",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Okanran and Ogbe",
+    "veve_stub": "Veve aligned with Okanran-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011012",
+    "base3_encoding": "011012",
+    "root_odu": "Okanran",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Okanran and Oyeku",
+    "veve_stub": "Veve aligned with Okanran-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011020",
+    "base3_encoding": "011020",
+    "root_odu": "Okanran",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Okanran and Iwori",
+    "veve_stub": "Veve aligned with Okanran-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011021",
+    "base3_encoding": "011021",
+    "root_odu": "Okanran",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Okanran and Odi",
+    "veve_stub": "Veve aligned with Okanran-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011022",
+    "base3_encoding": "011022",
+    "root_odu": "Okanran",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Okanran and Irosun",
+    "veve_stub": "Veve aligned with Okanran-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011100",
+    "base3_encoding": "011100",
+    "root_odu": "Okanran",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Okanran and Owonrin",
+    "veve_stub": "Veve aligned with Okanran-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011101",
+    "base3_encoding": "011101",
+    "root_odu": "Okanran",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Okanran and Obara",
+    "veve_stub": "Veve aligned with Okanran-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011102",
+    "base3_encoding": "011102",
+    "root_odu": "Okanran",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Okanran and Okanran",
+    "veve_stub": "Veve aligned with Okanran-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011110",
+    "base3_encoding": "011110",
+    "root_odu": "Okanran",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Okanran and Ogunda",
+    "veve_stub": "Veve aligned with Okanran-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011111",
+    "base3_encoding": "011111",
+    "root_odu": "Okanran",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Okanran and Osa",
+    "veve_stub": "Veve aligned with Okanran-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011112",
+    "base3_encoding": "011112",
+    "root_odu": "Okanran",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Okanran and Ika",
+    "veve_stub": "Veve aligned with Okanran-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011120",
+    "base3_encoding": "011120",
+    "root_odu": "Okanran",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Okanran and Oturupon",
+    "veve_stub": "Veve aligned with Okanran-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011121",
+    "base3_encoding": "011121",
+    "root_odu": "Okanran",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Okanran and Otura",
+    "veve_stub": "Veve aligned with Okanran-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011122",
+    "base3_encoding": "011122",
+    "root_odu": "Okanran",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Okanran and Irete",
+    "veve_stub": "Veve aligned with Okanran-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011200",
+    "base3_encoding": "011200",
+    "root_odu": "Okanran",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Okanran and Ose",
+    "veve_stub": "Veve aligned with Okanran-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011201",
+    "base3_encoding": "011201",
+    "root_odu": "Okanran",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Okanran and Ofun",
+    "veve_stub": "Veve aligned with Okanran-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Okanran-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011202",
+    "base3_encoding": "011202",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Ogunda and Ogbe",
+    "veve_stub": "Veve aligned with Ogunda-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011210",
+    "base3_encoding": "011210",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Ogunda and Oyeku",
+    "veve_stub": "Veve aligned with Ogunda-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011211",
+    "base3_encoding": "011211",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Ogunda and Iwori",
+    "veve_stub": "Veve aligned with Ogunda-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011212",
+    "base3_encoding": "011212",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Ogunda and Odi",
+    "veve_stub": "Veve aligned with Ogunda-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011220",
+    "base3_encoding": "011220",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Ogunda and Irosun",
+    "veve_stub": "Veve aligned with Ogunda-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011221",
+    "base3_encoding": "011221",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Ogunda and Owonrin",
+    "veve_stub": "Veve aligned with Ogunda-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_011222",
+    "base3_encoding": "011222",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Ogunda and Obara",
+    "veve_stub": "Veve aligned with Ogunda-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012000",
+    "base3_encoding": "012000",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Ogunda and Okanran",
+    "veve_stub": "Veve aligned with Ogunda-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012001",
+    "base3_encoding": "012001",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Ogunda and Ogunda",
+    "veve_stub": "Veve aligned with Ogunda-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012002",
+    "base3_encoding": "012002",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Ogunda and Osa",
+    "veve_stub": "Veve aligned with Ogunda-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012010",
+    "base3_encoding": "012010",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Ogunda and Ika",
+    "veve_stub": "Veve aligned with Ogunda-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012011",
+    "base3_encoding": "012011",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Ogunda and Oturupon",
+    "veve_stub": "Veve aligned with Ogunda-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012012",
+    "base3_encoding": "012012",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Ogunda and Otura",
+    "veve_stub": "Veve aligned with Ogunda-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012020",
+    "base3_encoding": "012020",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Ogunda and Irete",
+    "veve_stub": "Veve aligned with Ogunda-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012021",
+    "base3_encoding": "012021",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Ogunda and Ose",
+    "veve_stub": "Veve aligned with Ogunda-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012022",
+    "base3_encoding": "012022",
+    "root_odu": "Ogunda",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Ogunda and Ofun",
+    "veve_stub": "Veve aligned with Ogunda-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Ogunda-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012100",
+    "base3_encoding": "012100",
+    "root_odu": "Osa",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Osa and Ogbe",
+    "veve_stub": "Veve aligned with Osa-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012101",
+    "base3_encoding": "012101",
+    "root_odu": "Osa",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Osa and Oyeku",
+    "veve_stub": "Veve aligned with Osa-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012102",
+    "base3_encoding": "012102",
+    "root_odu": "Osa",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Osa and Iwori",
+    "veve_stub": "Veve aligned with Osa-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012110",
+    "base3_encoding": "012110",
+    "root_odu": "Osa",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Osa and Odi",
+    "veve_stub": "Veve aligned with Osa-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012111",
+    "base3_encoding": "012111",
+    "root_odu": "Osa",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Osa and Irosun",
+    "veve_stub": "Veve aligned with Osa-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012112",
+    "base3_encoding": "012112",
+    "root_odu": "Osa",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Osa and Owonrin",
+    "veve_stub": "Veve aligned with Osa-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012120",
+    "base3_encoding": "012120",
+    "root_odu": "Osa",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Osa and Obara",
+    "veve_stub": "Veve aligned with Osa-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012121",
+    "base3_encoding": "012121",
+    "root_odu": "Osa",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Osa and Okanran",
+    "veve_stub": "Veve aligned with Osa-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012122",
+    "base3_encoding": "012122",
+    "root_odu": "Osa",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Osa and Ogunda",
+    "veve_stub": "Veve aligned with Osa-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012200",
+    "base3_encoding": "012200",
+    "root_odu": "Osa",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Osa and Osa",
+    "veve_stub": "Veve aligned with Osa-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012201",
+    "base3_encoding": "012201",
+    "root_odu": "Osa",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Osa and Ika",
+    "veve_stub": "Veve aligned with Osa-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012202",
+    "base3_encoding": "012202",
+    "root_odu": "Osa",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Osa and Oturupon",
+    "veve_stub": "Veve aligned with Osa-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012210",
+    "base3_encoding": "012210",
+    "root_odu": "Osa",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Osa and Otura",
+    "veve_stub": "Veve aligned with Osa-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012211",
+    "base3_encoding": "012211",
+    "root_odu": "Osa",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Osa and Irete",
+    "veve_stub": "Veve aligned with Osa-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012212",
+    "base3_encoding": "012212",
+    "root_odu": "Osa",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Osa and Ose",
+    "veve_stub": "Veve aligned with Osa-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012220",
+    "base3_encoding": "012220",
+    "root_odu": "Osa",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Osa and Ofun",
+    "veve_stub": "Veve aligned with Osa-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Osa-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012221",
+    "base3_encoding": "012221",
+    "root_odu": "Ika",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Ika and Ogbe",
+    "veve_stub": "Veve aligned with Ika-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_012222",
+    "base3_encoding": "012222",
+    "root_odu": "Ika",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Ika and Oyeku",
+    "veve_stub": "Veve aligned with Ika-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020000",
+    "base3_encoding": "020000",
+    "root_odu": "Ika",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Ika and Iwori",
+    "veve_stub": "Veve aligned with Ika-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020001",
+    "base3_encoding": "020001",
+    "root_odu": "Ika",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Ika and Odi",
+    "veve_stub": "Veve aligned with Ika-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020002",
+    "base3_encoding": "020002",
+    "root_odu": "Ika",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Ika and Irosun",
+    "veve_stub": "Veve aligned with Ika-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020010",
+    "base3_encoding": "020010",
+    "root_odu": "Ika",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Ika and Owonrin",
+    "veve_stub": "Veve aligned with Ika-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020011",
+    "base3_encoding": "020011",
+    "root_odu": "Ika",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Ika and Obara",
+    "veve_stub": "Veve aligned with Ika-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020012",
+    "base3_encoding": "020012",
+    "root_odu": "Ika",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Ika and Okanran",
+    "veve_stub": "Veve aligned with Ika-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020020",
+    "base3_encoding": "020020",
+    "root_odu": "Ika",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Ika and Ogunda",
+    "veve_stub": "Veve aligned with Ika-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020021",
+    "base3_encoding": "020021",
+    "root_odu": "Ika",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Ika and Osa",
+    "veve_stub": "Veve aligned with Ika-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020022",
+    "base3_encoding": "020022",
+    "root_odu": "Ika",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Ika and Ika",
+    "veve_stub": "Veve aligned with Ika-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020100",
+    "base3_encoding": "020100",
+    "root_odu": "Ika",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Ika and Oturupon",
+    "veve_stub": "Veve aligned with Ika-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020101",
+    "base3_encoding": "020101",
+    "root_odu": "Ika",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Ika and Otura",
+    "veve_stub": "Veve aligned with Ika-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020102",
+    "base3_encoding": "020102",
+    "root_odu": "Ika",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Ika and Irete",
+    "veve_stub": "Veve aligned with Ika-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020110",
+    "base3_encoding": "020110",
+    "root_odu": "Ika",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Ika and Ose",
+    "veve_stub": "Veve aligned with Ika-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020111",
+    "base3_encoding": "020111",
+    "root_odu": "Ika",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Ika and Ofun",
+    "veve_stub": "Veve aligned with Ika-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Ika-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020112",
+    "base3_encoding": "020112",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Oturupon and Ogbe",
+    "veve_stub": "Veve aligned with Oturupon-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020120",
+    "base3_encoding": "020120",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Oturupon and Oyeku",
+    "veve_stub": "Veve aligned with Oturupon-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020121",
+    "base3_encoding": "020121",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Oturupon and Iwori",
+    "veve_stub": "Veve aligned with Oturupon-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020122",
+    "base3_encoding": "020122",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Oturupon and Odi",
+    "veve_stub": "Veve aligned with Oturupon-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020200",
+    "base3_encoding": "020200",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Oturupon and Irosun",
+    "veve_stub": "Veve aligned with Oturupon-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020201",
+    "base3_encoding": "020201",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Oturupon and Owonrin",
+    "veve_stub": "Veve aligned with Oturupon-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020202",
+    "base3_encoding": "020202",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Oturupon and Obara",
+    "veve_stub": "Veve aligned with Oturupon-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020210",
+    "base3_encoding": "020210",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Oturupon and Okanran",
+    "veve_stub": "Veve aligned with Oturupon-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020211",
+    "base3_encoding": "020211",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Oturupon and Ogunda",
+    "veve_stub": "Veve aligned with Oturupon-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020212",
+    "base3_encoding": "020212",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Oturupon and Osa",
+    "veve_stub": "Veve aligned with Oturupon-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020220",
+    "base3_encoding": "020220",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Oturupon and Ika",
+    "veve_stub": "Veve aligned with Oturupon-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020221",
+    "base3_encoding": "020221",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Oturupon and Oturupon",
+    "veve_stub": "Veve aligned with Oturupon-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_020222",
+    "base3_encoding": "020222",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Oturupon and Otura",
+    "veve_stub": "Veve aligned with Oturupon-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021000",
+    "base3_encoding": "021000",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Oturupon and Irete",
+    "veve_stub": "Veve aligned with Oturupon-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021001",
+    "base3_encoding": "021001",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Oturupon and Ose",
+    "veve_stub": "Veve aligned with Oturupon-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021002",
+    "base3_encoding": "021002",
+    "root_odu": "Oturupon",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Oturupon and Ofun",
+    "veve_stub": "Veve aligned with Oturupon-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Oturupon-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021010",
+    "base3_encoding": "021010",
+    "root_odu": "Otura",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Otura and Ogbe",
+    "veve_stub": "Veve aligned with Otura-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021011",
+    "base3_encoding": "021011",
+    "root_odu": "Otura",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Otura and Oyeku",
+    "veve_stub": "Veve aligned with Otura-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021012",
+    "base3_encoding": "021012",
+    "root_odu": "Otura",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Otura and Iwori",
+    "veve_stub": "Veve aligned with Otura-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021020",
+    "base3_encoding": "021020",
+    "root_odu": "Otura",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Otura and Odi",
+    "veve_stub": "Veve aligned with Otura-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021021",
+    "base3_encoding": "021021",
+    "root_odu": "Otura",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Otura and Irosun",
+    "veve_stub": "Veve aligned with Otura-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021022",
+    "base3_encoding": "021022",
+    "root_odu": "Otura",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Otura and Owonrin",
+    "veve_stub": "Veve aligned with Otura-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021100",
+    "base3_encoding": "021100",
+    "root_odu": "Otura",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Otura and Obara",
+    "veve_stub": "Veve aligned with Otura-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021101",
+    "base3_encoding": "021101",
+    "root_odu": "Otura",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Otura and Okanran",
+    "veve_stub": "Veve aligned with Otura-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021102",
+    "base3_encoding": "021102",
+    "root_odu": "Otura",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Otura and Ogunda",
+    "veve_stub": "Veve aligned with Otura-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021110",
+    "base3_encoding": "021110",
+    "root_odu": "Otura",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Otura and Osa",
+    "veve_stub": "Veve aligned with Otura-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021111",
+    "base3_encoding": "021111",
+    "root_odu": "Otura",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Otura and Ika",
+    "veve_stub": "Veve aligned with Otura-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021112",
+    "base3_encoding": "021112",
+    "root_odu": "Otura",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Otura and Oturupon",
+    "veve_stub": "Veve aligned with Otura-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021120",
+    "base3_encoding": "021120",
+    "root_odu": "Otura",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Otura and Otura",
+    "veve_stub": "Veve aligned with Otura-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021121",
+    "base3_encoding": "021121",
+    "root_odu": "Otura",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Otura and Irete",
+    "veve_stub": "Veve aligned with Otura-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021122",
+    "base3_encoding": "021122",
+    "root_odu": "Otura",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Otura and Ose",
+    "veve_stub": "Veve aligned with Otura-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021200",
+    "base3_encoding": "021200",
+    "root_odu": "Otura",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Otura and Ofun",
+    "veve_stub": "Veve aligned with Otura-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Otura-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021201",
+    "base3_encoding": "021201",
+    "root_odu": "Irete",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Irete and Ogbe",
+    "veve_stub": "Veve aligned with Irete-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021202",
+    "base3_encoding": "021202",
+    "root_odu": "Irete",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Irete and Oyeku",
+    "veve_stub": "Veve aligned with Irete-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021210",
+    "base3_encoding": "021210",
+    "root_odu": "Irete",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Irete and Iwori",
+    "veve_stub": "Veve aligned with Irete-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021211",
+    "base3_encoding": "021211",
+    "root_odu": "Irete",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Irete and Odi",
+    "veve_stub": "Veve aligned with Irete-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021212",
+    "base3_encoding": "021212",
+    "root_odu": "Irete",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Irete and Irosun",
+    "veve_stub": "Veve aligned with Irete-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021220",
+    "base3_encoding": "021220",
+    "root_odu": "Irete",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Irete and Owonrin",
+    "veve_stub": "Veve aligned with Irete-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021221",
+    "base3_encoding": "021221",
+    "root_odu": "Irete",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Irete and Obara",
+    "veve_stub": "Veve aligned with Irete-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_021222",
+    "base3_encoding": "021222",
+    "root_odu": "Irete",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Irete and Okanran",
+    "veve_stub": "Veve aligned with Irete-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022000",
+    "base3_encoding": "022000",
+    "root_odu": "Irete",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Irete and Ogunda",
+    "veve_stub": "Veve aligned with Irete-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022001",
+    "base3_encoding": "022001",
+    "root_odu": "Irete",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Irete and Osa",
+    "veve_stub": "Veve aligned with Irete-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022002",
+    "base3_encoding": "022002",
+    "root_odu": "Irete",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Irete and Ika",
+    "veve_stub": "Veve aligned with Irete-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022010",
+    "base3_encoding": "022010",
+    "root_odu": "Irete",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Irete and Oturupon",
+    "veve_stub": "Veve aligned with Irete-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022011",
+    "base3_encoding": "022011",
+    "root_odu": "Irete",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Irete and Otura",
+    "veve_stub": "Veve aligned with Irete-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022012",
+    "base3_encoding": "022012",
+    "root_odu": "Irete",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Irete and Irete",
+    "veve_stub": "Veve aligned with Irete-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022020",
+    "base3_encoding": "022020",
+    "root_odu": "Irete",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Irete and Ose",
+    "veve_stub": "Veve aligned with Irete-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022021",
+    "base3_encoding": "022021",
+    "root_odu": "Irete",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Irete and Ofun",
+    "veve_stub": "Veve aligned with Irete-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Irete-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022022",
+    "base3_encoding": "022022",
+    "root_odu": "Ose",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Ose and Ogbe",
+    "veve_stub": "Veve aligned with Ose-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022100",
+    "base3_encoding": "022100",
+    "root_odu": "Ose",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Ose and Oyeku",
+    "veve_stub": "Veve aligned with Ose-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022101",
+    "base3_encoding": "022101",
+    "root_odu": "Ose",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Ose and Iwori",
+    "veve_stub": "Veve aligned with Ose-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022102",
+    "base3_encoding": "022102",
+    "root_odu": "Ose",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Ose and Odi",
+    "veve_stub": "Veve aligned with Ose-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022110",
+    "base3_encoding": "022110",
+    "root_odu": "Ose",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Ose and Irosun",
+    "veve_stub": "Veve aligned with Ose-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022111",
+    "base3_encoding": "022111",
+    "root_odu": "Ose",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Ose and Owonrin",
+    "veve_stub": "Veve aligned with Ose-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022112",
+    "base3_encoding": "022112",
+    "root_odu": "Ose",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Ose and Obara",
+    "veve_stub": "Veve aligned with Ose-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022120",
+    "base3_encoding": "022120",
+    "root_odu": "Ose",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Ose and Okanran",
+    "veve_stub": "Veve aligned with Ose-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022121",
+    "base3_encoding": "022121",
+    "root_odu": "Ose",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Ose and Ogunda",
+    "veve_stub": "Veve aligned with Ose-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022122",
+    "base3_encoding": "022122",
+    "root_odu": "Ose",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Ose and Osa",
+    "veve_stub": "Veve aligned with Ose-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022200",
+    "base3_encoding": "022200",
+    "root_odu": "Ose",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Ose and Ika",
+    "veve_stub": "Veve aligned with Ose-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022201",
+    "base3_encoding": "022201",
+    "root_odu": "Ose",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Ose and Oturupon",
+    "veve_stub": "Veve aligned with Ose-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022202",
+    "base3_encoding": "022202",
+    "root_odu": "Ose",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Ose and Otura",
+    "veve_stub": "Veve aligned with Ose-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022210",
+    "base3_encoding": "022210",
+    "root_odu": "Ose",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Ose and Irete",
+    "veve_stub": "Veve aligned with Ose-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022211",
+    "base3_encoding": "022211",
+    "root_odu": "Ose",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Ose and Ose",
+    "veve_stub": "Veve aligned with Ose-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022212",
+    "base3_encoding": "022212",
+    "root_odu": "Ose",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Ose and Ofun",
+    "veve_stub": "Veve aligned with Ose-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Ose-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022220",
+    "base3_encoding": "022220",
+    "root_odu": "Ofun",
+    "modifier_odu": "Ogbe",
+    "meaning_stub": "Fusion of Ofun and Ogbe",
+    "veve_stub": "Veve aligned with Ofun-Ogbe",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Ogbe",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022221",
+    "base3_encoding": "022221",
+    "root_odu": "Ofun",
+    "modifier_odu": "Oyeku",
+    "meaning_stub": "Fusion of Ofun and Oyeku",
+    "veve_stub": "Veve aligned with Ofun-Oyeku",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Oyeku",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_022222",
+    "base3_encoding": "022222",
+    "root_odu": "Ofun",
+    "modifier_odu": "Iwori",
+    "meaning_stub": "Fusion of Ofun and Iwori",
+    "veve_stub": "Veve aligned with Ofun-Iwori",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Iwori",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100000",
+    "base3_encoding": "100000",
+    "root_odu": "Ofun",
+    "modifier_odu": "Odi",
+    "meaning_stub": "Fusion of Ofun and Odi",
+    "veve_stub": "Veve aligned with Ofun-Odi",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Odi",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100001",
+    "base3_encoding": "100001",
+    "root_odu": "Ofun",
+    "modifier_odu": "Irosun",
+    "meaning_stub": "Fusion of Ofun and Irosun",
+    "veve_stub": "Veve aligned with Ofun-Irosun",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Irosun",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100002",
+    "base3_encoding": "100002",
+    "root_odu": "Ofun",
+    "modifier_odu": "Owonrin",
+    "meaning_stub": "Fusion of Ofun and Owonrin",
+    "veve_stub": "Veve aligned with Ofun-Owonrin",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Owonrin",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100010",
+    "base3_encoding": "100010",
+    "root_odu": "Ofun",
+    "modifier_odu": "Obara",
+    "meaning_stub": "Fusion of Ofun and Obara",
+    "veve_stub": "Veve aligned with Ofun-Obara",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Obara",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100011",
+    "base3_encoding": "100011",
+    "root_odu": "Ofun",
+    "modifier_odu": "Okanran",
+    "meaning_stub": "Fusion of Ofun and Okanran",
+    "veve_stub": "Veve aligned with Ofun-Okanran",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Okanran",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100012",
+    "base3_encoding": "100012",
+    "root_odu": "Ofun",
+    "modifier_odu": "Ogunda",
+    "meaning_stub": "Fusion of Ofun and Ogunda",
+    "veve_stub": "Veve aligned with Ofun-Ogunda",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Ogunda",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100020",
+    "base3_encoding": "100020",
+    "root_odu": "Ofun",
+    "modifier_odu": "Osa",
+    "meaning_stub": "Fusion of Ofun and Osa",
+    "veve_stub": "Veve aligned with Ofun-Osa",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Osa",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100021",
+    "base3_encoding": "100021",
+    "root_odu": "Ofun",
+    "modifier_odu": "Ika",
+    "meaning_stub": "Fusion of Ofun and Ika",
+    "veve_stub": "Veve aligned with Ofun-Ika",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Ika",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100022",
+    "base3_encoding": "100022",
+    "root_odu": "Ofun",
+    "modifier_odu": "Oturupon",
+    "meaning_stub": "Fusion of Ofun and Oturupon",
+    "veve_stub": "Veve aligned with Ofun-Oturupon",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Oturupon",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100100",
+    "base3_encoding": "100100",
+    "root_odu": "Ofun",
+    "modifier_odu": "Otura",
+    "meaning_stub": "Fusion of Ofun and Otura",
+    "veve_stub": "Veve aligned with Ofun-Otura",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Otura",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100101",
+    "base3_encoding": "100101",
+    "root_odu": "Ofun",
+    "modifier_odu": "Irete",
+    "meaning_stub": "Fusion of Ofun and Irete",
+    "veve_stub": "Veve aligned with Ofun-Irete",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Irete",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100102",
+    "base3_encoding": "100102",
+    "root_odu": "Ofun",
+    "modifier_odu": "Ose",
+    "meaning_stub": "Fusion of Ofun and Ose",
+    "veve_stub": "Veve aligned with Ofun-Ose",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Ose",
+    "root_colors": [
+      "TBD"
+    ]
+  },
+  {
+    "odublock_id": "ODUBLOCK_100110",
+    "base3_encoding": "100110",
+    "root_odu": "Ofun",
+    "modifier_odu": "Ofun",
+    "meaning_stub": "Fusion of Ofun and Ofun",
+    "veve_stub": "Veve aligned with Ofun-Ofun",
+    "nsibidi_stub": "Nsibidi logic derived from Ofun-Ofun",
+    "root_colors": [
+      "TBD"
+    ]
+  }
+]
