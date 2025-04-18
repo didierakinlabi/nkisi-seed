@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "description": "Reduced culinary + memory-focused dictionary for Nkisi woven format",
+    "encoding": "base-3 tone logic",
+    "version": "GEN-2",
+    "format": "term \u2192 tone code (A/B/C)",
+    "grid_optimized": "yes"
+  },
+  "dictionary": [
+    {
+      "term": "salt",
+      "code": "AAC"
+    },
+    {
+      "term": "garlic",
+      "code": "BBA"
+    },
+    {
+      "term": "onion",
+      "code": "CAB"
+    },
+    {
+      "term": "oil",
+      "code": "ACC"
+    },
+    {
+      "term": "water",
+      "code": "AAA"
+    },
+    {
+      "term": "heat",
+      "code": "CBB"
+    },
+    {
+      "term": "stir",
+      "code": "BAC"
+    },
+    {
+      "term": "boil",
+      "code": "ABC"
+    },
+    {
+      "term": "crepe",
+      "code": "BCA"
+    },
+    {
+      "term": "memory",
+      "code": "CCC"
+    },
+    {
+      "term": "dream",
+      "code": "ACB"
+    },
+    {
+      "term": "family",
+      "code": "CBA"
+    }
+  ]
+}
