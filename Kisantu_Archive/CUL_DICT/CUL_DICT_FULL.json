@@ -1,0 +1,19 @@
+
+[
+  {
+    "name": "butter",
+    "category": "fat",
+    "uses": ["baking", "frying", "sauce"],
+    "unit_base": "tbsp",
+    "conversions": {
+      "1 tbsp": "14.79 ml",
+      "1 cup": "16 tbsp",
+      "1 cup": "0.5 pint"
+    },
+    "ternary_encoding": "102021",
+    "heat_response": "melts",
+    "flavor_profile": "neutral",
+    "fermentable": "no",
+    "ritual_class": "daily"
+  }
+]
