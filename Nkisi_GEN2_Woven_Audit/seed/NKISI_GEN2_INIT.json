@@ -1,0 +1,27 @@
+{
+  "seed_id": "GEN2_WovenAudit_0425",
+  "tier": "Nkasa-Dale",
+  "category": "Audit / Optimization",
+  "goal": "Audit and optimize the Nkisi woven memory language system",
+  "version": "Gen-2",
+  "status": "active",
+  "grid_spec": {
+    "base_grid": "8x16",
+    "stacked_format": "16x16 composite (256-bit scroll)",
+    "cell_logic": "base-3 tones (A/B/C), with potential D for control"
+  },
+  "components": [
+    "WOVEN_LANG_AUDIT_0425.md",
+    "Nkasa-Dale_GEN2_TEMPLATE.svg",
+    "CUL_DICT_REDUX.json",
+    "GRID_EVOLUTION_PLAN.md"
+  ],
+  "agent_instructions": [
+    "Load 8x16 grid structure",
+    "Run visual and tone logic audit on existing blocks",
+    "Test new dictionary entries using CUL_DICT_REDUX",
+    "Output block usage and improvements to WOVEN_LANG_AUDIT_0425.md",
+    "Prototype printable blocks via Nkasa-Dale_GEN2_TEMPLATE.svg"
+  ],
+  "created": "2025-04-18"
+}
